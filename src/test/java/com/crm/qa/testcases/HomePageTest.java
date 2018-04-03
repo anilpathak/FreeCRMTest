@@ -29,7 +29,7 @@ public class HomePageTest extends TestBase{
 	public void verifyHomePageTitleTest(){
 		
 		String homePageTitle = homepage.verifyHomePageTitle();
-		//System.out.println(homePageTitle);
+		System.out.println("_"+homePageTitle+"_");
 		Assert.assertEquals(homePageTitle, "CRMPRO", "Homepage title mismatch");
 		
 	}

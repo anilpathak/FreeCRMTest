@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25986" started-at="2018-04-03T14:09:50Z" finished-at="2018-04-03T14:10:16Z">
+  <suite name="Default suite" duration-ms="22910" started-at="2018-04-03T19:01:19Z" finished-at="2018-04-03T19:01:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25986" started-at="2018-04-03T14:09:50Z" finished-at="2018-04-03T14:10:16Z">
+    <test name="Default test" duration-ms="22910" started-at="2018-04-03T19:01:19Z" finished-at="2018-04-03T19:01:42Z">
       <class name="com.crm.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@724af044]" name="setUp" is-config="true" duration-ms="24997" started-at="2018-04-03T19:39:50Z" finished-at="2018-04-03T19:40:15Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@724af044]" name="setUp" is-config="true" duration-ms="22128" started-at="2018-04-04T00:31:19Z" finished-at="2018-04-04T00:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="verifyHomePageTitleTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@724af044]" name="verifyHomePageTitleTest" duration-ms="32" started-at="2018-04-03T19:40:15Z" finished-at="2018-04-03T19:40:15Z">
+        <test-method status="FAIL" signature="verifyHomePageTitleTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@724af044]" name="verifyHomePageTitleTest" duration-ms="16" started-at="2018-04-04T00:31:41Z" finished-at="2018-04-04T00:31:41Z">
           <exception class="org.junit.ComparisonFailure">
             <message>
               <![CDATA[CRMPRO expected:<[CRMPRO]> but was:<[Homepage title mismatch]>]]>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@724af044]" name="tearDown" is-config="true" duration-ms="926" started-at="2018-04-03T19:40:15Z" finished-at="2018-04-03T19:40:16Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@724af044]" name="tearDown" is-config="true" duration-ms="742" started-at="2018-04-04T00:31:41Z" finished-at="2018-04-04T00:31:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
