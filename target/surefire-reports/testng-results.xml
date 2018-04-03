@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="34473" started-at="2018-04-02T18:18:50Z" finished-at="2018-04-02T18:19:25Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="34473" started-at="2018-04-02T18:18:50Z" finished-at="2018-04-02T18:19:25Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="setup" is-config="true" duration-ms="7775" started-at="2018-04-02T23:48:50Z" finished-at="2018-04-02T23:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="loginpageTitleTest" duration-ms="16" started-at="2018-04-02T23:48:58Z" finished-at="2018-04-02T23:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="tearDown" is-config="true" duration-ms="683" started-at="2018-04-02T23:48:58Z" finished-at="2018-04-02T23:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="setup" is-config="true" duration-ms="6737" started-at="2018-04-02T23:48:59Z" finished-at="2018-04-02T23:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="crmLogoImageTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="crmLogoImageTest" duration-ms="40" started-at="2018-04-02T23:49:05Z" finished-at="2018-04-02T23:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="tearDown" is-config="true" duration-ms="681" started-at="2018-04-02T23:49:05Z" finished-at="2018-04-02T23:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="setup" is-config="true" duration-ms="6726" started-at="2018-04-02T23:49:06Z" finished-at="2018-04-02T23:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="loginTest" duration-ms="11112" started-at="2018-04-02T23:49:13Z" finished-at="2018-04-02T23:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@3567135c]" name="tearDown" is-config="true" duration-ms="683" started-at="2018-04-02T23:49:24Z" finished-at="2018-04-02T23:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
