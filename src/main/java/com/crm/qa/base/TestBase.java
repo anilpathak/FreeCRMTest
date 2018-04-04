@@ -19,7 +19,7 @@ public class TestBase {
 	public TestBase(){
 		
 		try {
-			System.out.println("1");
+			
 			prop = new Properties();
 			System.out.println("2");
 			FileInputStream ip = new FileInputStream("c:\\Users\\ap185303\\workspace\\FreeCRMTest\\src\\main\\java\\com\\crm"

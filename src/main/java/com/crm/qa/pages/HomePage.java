@@ -36,12 +36,13 @@ public class HomePage extends TestBase {
 	}
 	
 	public boolean verifyCorrectUserName(){
+		System.out.println(userNameLabel.getText());
 		return userNameLabel.isDisplayed();
 		
 	}
 	
 	public ContactsPage clickOnContactsLink(){
-		contactsLink.clear();
+		contactsLink.click();
 		return new ContactsPage();
 	}
 	
